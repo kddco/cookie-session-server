@@ -2,7 +2,7 @@
   "name": "httponly-server",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js,session-baseed.js",
+  "main": "cookie-bases.js,session-baseed.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
